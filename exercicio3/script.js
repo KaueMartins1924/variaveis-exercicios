@@ -40,3 +40,5 @@ console.log ("Cargo:", respostaCargo)
 console.log ("Salário:", respostaSalario)
 console.log ("Comissão:", respostaComissao)
 console.log ("Admissão:", respostaAdmissao)
+
+//fim
